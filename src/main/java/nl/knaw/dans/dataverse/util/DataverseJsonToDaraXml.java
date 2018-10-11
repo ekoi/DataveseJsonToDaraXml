@@ -16,8 +16,7 @@ import java.nio.charset.StandardCharsets;
  * @Author: Eko Indarto
  *
  */
-public class DataverseJsonToDaraXml
-{
+public class DataverseJsonToDaraXml {
     private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
     private static final String INITIAL_TEMPLATE = "initialTemplate";
     private static final String PARAM_DVN_JSON = "dvnJson";
